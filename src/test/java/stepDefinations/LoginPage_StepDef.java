@@ -32,7 +32,6 @@ public class LoginPage_StepDef extends DriverInitialization {
         Assert.assertTrue(driver.getTitle().equals("MOSAIC"));
     }
 
-
     @When("^I enter \"([^\"]*)\" and \"([^\"]*)\"$")
     public void iEnterUserNameAndPassword(String uname , String password) throws Throwable {
         loginPage=new LoginPage(driver);
