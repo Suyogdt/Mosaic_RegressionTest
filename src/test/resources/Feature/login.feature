@@ -7,8 +7,6 @@ Feature: Test Login Page with its functionality
     When I enter "<UserName>" and "<Password>"
     Then I should be able to Landing page of Mosaic
 
-    Reporter.addScenarioLog(“Open Login page and check login Scenario performed successfully”);
-
     Examples:
       | UserName                       | Password       |
       | amol.adkitte@lntinfotech.com   | SwamiOM$2018 |
