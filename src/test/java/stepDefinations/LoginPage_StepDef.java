@@ -1,5 +1,6 @@
 package stepDefinations;
 
+import CommonActions.CommonUtilities;
 import DriverInitialization.DriverInitialization;
 import PageObjects.LoginPage;
 import cucumber.api.PendingException;
@@ -21,7 +22,6 @@ public class LoginPage_StepDef extends DriverInitialization {
     public WebDriver driver;
     public LoginPage loginPage;
 
-    @Test
     @Parameters("browser")
     @Given("^I am on Login page$")
     public void i_am_on_Login_page() {
@@ -40,9 +40,9 @@ public class LoginPage_StepDef extends DriverInitialization {
 
     }
 
-    @Test
     @Then("^I should be able to Landing page of Mosaic$")
     public void i_should_be_able_to_Landing_page_of_Mosaic() throws Throwable {
         System.out.println("I am landing page");
+        //Assert.assertTrue(CommonUtilities.isElement_PresentOnPage(By.xpath("//button[text()='+New Project']"),driver));
     }
 }
