@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/CommonActions/CommonUtilities.java" line="92" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c39f7ac-c4d5-4bef-bae8-e1b82219cc7a" name="Default" comment="Commited code for report functioanlity.&#10;Updated report config.xml&#10;UIpdated test runner class">
+    <list default="true" id="5c39f7ac-c4d5-4bef-bae8-e1b82219cc7a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mosaic_regression.iws" />
@@ -71,8 +71,8 @@
       <file leaf-file-name="CommonUtilities.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CommonActions/CommonUtilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="94" column="28" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+            <state relative-caret-position="207">
+              <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -627,6 +627,14 @@
       <option name="presentableId" value="Default" />
       <updated>1520408024786</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commited code for report functioanlity.&#10;Updated report config.xml&#10;UIpdated test runner class">
+      <created>1520417376249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520417376249</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -727,8 +735,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CommonActions/CommonUtilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="94" column="28" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+        <state relative-caret-position="207">
+          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
           <folding />
         </state>
       </provider>
