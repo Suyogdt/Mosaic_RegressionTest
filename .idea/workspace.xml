@@ -648,7 +648,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520418384487</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commited code for report functioanlity.&#10;Updated report config.xml&#10;UIpdated test runner class">
+      <created>1520418634109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520418634109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
